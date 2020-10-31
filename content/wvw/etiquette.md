@@ -29,12 +29,12 @@ Running with a squad is like a team sport. To be successful, everyone should und
 
 7) When sieging an objective, here's the order of operations:
 
-    * First clear enemy siege.
+    * First clear enemy rams or catapults in the way.
     * Then build any siege the commander drops. And build fast! If you have supply, and you see something that needs building, build it!
     * If you are a healer or support with reflects, stay with the siege and protect it.
     * If you have ranged damage, clear the walls of guards, siege, and squirrels.
     * Otherwise, if you have siege mastery, use any available siege.
-    * Everyone else, see rule #1
+    * Everyone else, see rule #1.
 
 8) Don't claim objectives unless told to. Please leave that decision up to the commander or delegate.
 
