@@ -1,0 +1,33 @@
+baseurl: "http://www.tyrianmisfits.com"
+languageCode: "en-us"
+title: "Tyrian Misfits"
+theme: "xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  wvw: "/wvw/:slug/"
+  announcements: "/announcements/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: About Us
+      url: ""
+      weight: 1
+    - name: Announcements
+      url: "announcements/"
+      weight: 2
+    - name: WvW 101
+      url: "wvw/"
+      weight: 3
+
+params:
+  description: "Poking holes in walls since 2012"
+  footer: "Designed with ♥ by Perlkönig (Haele)"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
