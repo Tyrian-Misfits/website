@@ -12,6 +12,8 @@ If you're an officer and want direct write access to the website, reach out to m
 
 ## Building
 
+### Most People
+
 1. [Install Hugo](https://gohugo.io/getting-started/installing/).
 2. [Install Git](https://git-scm.com/downloads).
 3. On GitHub.com, [fork the `Tyrian-Misfits/website-source` repository](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
@@ -19,3 +21,11 @@ If you're an officer and want direct write access to the website, reach out to m
 5. From the newly created folder, start the Hugo server and make sure the site renders correctly: `hugo server`.
 6. Make your changes and ensure that everything renders correctly.
 7. Commit your changes and [submit the pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+
+### Repository Owners
+
+If you have write access to the repositories, then you don't need to submit a pull request. You can push directly. Everything is the same up through step 6.
+
+7. Run the `hugo` command to build the site into the `public` folder. If the changes were major, you may need to delete the previous material first.
+8. Go into the `public` folder and commit and push the changes directly.
+9. Commit and push the changes you made to the `website-source` repository as well.
