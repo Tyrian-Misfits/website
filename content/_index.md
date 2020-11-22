@@ -7,7 +7,7 @@ layout: single
 
 We are group of open, friendly, and inclusive adults who love playing [Guild Wars 2](https://www.guildwars2.com) together. We are primarily a World vs. World guild based on the **Gates of Madness server**, but we also have many PvE and PvP players. We have an active Discord server and a minor Facebook presence.
 
-See our [guild event calendar](http://www.tyrianmisfits.com/calendar) for a full list of scheduled events.
+See our [guild event calendar](http://calendar.tyrianmisfits.com) for a full list of scheduled events.
 
 ## Who can join?
 
