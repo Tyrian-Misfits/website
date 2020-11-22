@@ -1,5 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP:X-Forwarded-Proto} https
-RewriteRule .* - [E=HTTPS:on]
-
-RedirectMatch 301 (?i)/calendar https://calendar.google.com/calendar/u/0?cid=NjR2Y2xtZmh2NjU1ZHFzbTgxcGloZ3VkdTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
