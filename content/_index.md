@@ -21,7 +21,7 @@ To join, please reach out to any member of the guild. You can also contact any o
 * ChainedOne.7369
 * lightliger.3024
 * Perlkonig.3247
-* Phlox.1923
+* Kaiiku.2917
 
 ## Guild Structure
 
