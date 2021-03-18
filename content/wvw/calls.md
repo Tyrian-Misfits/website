@@ -1,7 +1,7 @@
 ---
 title: "Commander Calls"
 slug: calls
-date: 2020-10-31T10:24:00-06:00
+date: 2021-03-17T18:00:00-06:00
 ---
 
 You may hear the commander call out various words and phrases at certain points. Here's what they mean. Don't ever hesitate to ask, either in the chat or in Discord, if you have any questions or would like to see new terms added.
@@ -20,6 +20,8 @@ pvd
 
 stack; stack up
 :   It simply means get on tag. This is so, so important. Stealth, might, healing, all of it relies on people being close together. So stack up!
+
+    When stacking, **always dismount**! Also, do not use any skills that create a [combo field](https://wiki.guildwars2.com/wiki/Combo) unless ordered to do so.
 
 stealth
 :   Some classes have skills that create a [smoke field](https://wiki.guildwars2.com/wiki/Smoke_field). When smoke fields are [blasted](https://wiki.guildwars2.com/wiki/Blast_finisher), they give stealth to people within the field. For this to work, you must keep in mind the following:
