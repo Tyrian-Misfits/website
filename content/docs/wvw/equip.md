@@ -1,7 +1,9 @@
 ---
 title: "Equipment"
-date: 2021-03-17T17:41:00-06:00
+weight: 40
 ---
+
+# Equipment
 
 Exotic equipment is sufficient for World vs. World. The stat difference between exotic and ascended gear is around 10%&nbsp;&ndash;&nbsp;rarely enough to determine a fight. And by playing WvW you will naturally earn [Warlord's Armor Boxes](https://wiki.guildwars2.com/wiki/Warlord%27s_Armor_Box), which give you stat-selectable exotic armour. For a discussion of which stats you want on your equipment, please see the [Builds](../builds) article.
 

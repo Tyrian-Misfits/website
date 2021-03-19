@@ -1,8 +1,9 @@
 ---
 title: "Guardian"
-slug: guardian
-date: 2021-03-17T20:00:00-06:00
+weight: 20
 ---
+
+# Guardian
 
 GW2Mists lists [multiple guardian builds](https://gw2mists.com/builds/guardian). The most common, and the one we need for every single party in the zerg, is the Healbrand. The others can be slotted in to the flex spots, but they cannot replace a proper Healbrand.
 

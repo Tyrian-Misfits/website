@@ -1,27 +1,35 @@
 baseurl: "https://tyrian-misfits.github.io"
 languageCode: "en-us"
 title: "Tyrian Misfits"
-theme: "xmin"
+theme: "book" #"xmin"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
+disablePathToLower: true
+enableGitInfo: true
+disableKinds: ['taxonomy', 'taxonomyTerm']
+
+BookRepo: "https://github.com/Tyrian-Misfits/website-source"
+BookEditPath: "tree/master/content"
+BookDateFormat: "January 2, 2006"
 
 permalinks:
   wvw: "/wvw/:slug/"
   announcements: "/announcements/:year/:month/:day/:slug/"
 
 menu:
-  main:
+  before:
     - name: About Us
-      url: ""
-      weight: 1
+      url: "/"
+      weight: 10
     - name: Announcements
-      url: "announcements/"
-      weight: 2
-    - name: WvW 101
-      url: "wvw/"
-      weight: 3
+      url: "/posts"
+      weight: 20
+    - name: Event Calendar
+      url: "/calendar"
+      weight: 30
+  #after: []
 
 params:
   description: "Poking holes in walls since 2012"
@@ -31,3 +39,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  tableOfContents:
+    startLevel: 1

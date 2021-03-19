@@ -1,8 +1,9 @@
 ---
-title: "Settings"
-slug: settings
-date: 2021-03-17T20:00:00-06:00
+title: "Game Settings"
+weight: 10
 ---
+
+# Game Settings
 
 For maximum performance, we encourage you to read the following articles:
 

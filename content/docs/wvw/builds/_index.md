@@ -1,8 +1,9 @@
 ---
 title: "Builds"
-layout: "list"
-date: 2021-03-17T17:46:00-06:00
+weight: 50
 ---
+
+# Builds
 
 TM does not require specific builds. Play classes you enjoy. That said, there *are* ideal builds for most classes that fill common roles WvW squads need. If you wish to start exploring those, the best place to start is an up-to-date build website. We recommend [GW2Mists](https://gw2mists.com/). In the Discord there are specific channels dedicated for discussions and questions around specific classes, and occasionally we hold class-specific training sessions.
 

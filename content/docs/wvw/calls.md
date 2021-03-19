@@ -1,13 +1,20 @@
 ---
 title: "Commander Calls"
 slug: calls
-date: 2021-03-17T18:00:00-06:00
+weight: 30
 ---
+
+# Commander Calls
 
 You may hear the commander call out various words and phrases at certain points. Here's what they mean. Don't ever hesitate to ask, either in the chat or in Discord, if you have any questions or would like to see new terms added.
 
 blast
 :   This is usually called right after *stealth*. It means to use a [blast finisher](https://wiki.guildwars2.com/wiki/Blast_finisher) skill inside of a [smoke field](https://wiki.guildwars2.com/wiki/Smoke_field) to create area stealth. See *stealth* for details.
+
+bomb
+:   This means to do the maximum amount of damage you can at that moment and in that place. For supports, it's the time you pull out all the stops to ensure the DPSers in your party are maximally effective (e.g., quickness, alacrity, might, Winds of Disenchantment).
+
+    It is generally wise to save your big skills for these calls. Sure, DPSers want to be doing damage all the time, but when everybody coordinates, it's amazing how quickly you can destroy an enemy blob. So try to save a little for these calls.
 
 finish the downs
 :   Means to backtrack a little and be sure to finish all the of the downed enemies. This usually means "cleave," meaning do as much damage as you can. "Stomping" (pressing the Finish key) generally takes too long.

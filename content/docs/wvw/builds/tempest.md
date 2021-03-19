@@ -1,12 +1,13 @@
 ---
 title: "Tempest"
-slug: tempest
-date: 2021-03-18T15:00:00-06:00
+weight: 30
 ---
+
+# Tempest
 
 GW2Mists lists [two elementalist builds](https://gw2mists.com/builds/elementalis): a support and a DPS.
 
-## Support Tempest
+## Support Tempest (Frontline)
 
 ### Rotation
 
@@ -33,7 +34,7 @@ warhorn
 
 ### Trait Options
 
-There's very little trait flexibility with support tempests. It's the combination of the three traits Water: Powerful Aura, Fire: Smothering Ashes, and Tempest: Elemental Bastion are what make this build tick. Without them, your utility drops dramatically.
+There's very little trait flexibility with support tempests. It's the combination of the three traits Water: Powerful Aura, Fire: Smothering Ashes, and Tempest: Elemental Bastion that make this build tick. Without them, your utility drops dramatically.
 
 The only room to manoeuvre is in Tempest column 2.
 

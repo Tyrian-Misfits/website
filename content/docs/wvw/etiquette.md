@@ -1,7 +1,9 @@
 ---
 title: "Etiquette"
-date: 2020-10-31T09:35:00-06:00
+weight: 20
 ---
+
+# Etiquette
 
 Running with a squad is like a team sport. To be successful, everyone should understand the fundamentals and adhere to certain basic "rules." These basic rules of etiquette apply to any squad you may find yourself in.
 

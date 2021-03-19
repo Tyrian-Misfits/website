@@ -1,8 +1,9 @@
 ---
 title: "The Basics"
-slug: basics
-date: 2021-03-17T19:00:00-06:00
+weight: 10
 ---
+
+# The Basics
 
 The core party composition is a support firebrand (primarily for stability), a scrapper (for healing), and a scourge (for condi damage, shields, and boon rips). The remaining two slots is where we can get creative.
 
