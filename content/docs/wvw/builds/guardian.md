@@ -79,3 +79,5 @@ As we get within range, I'll pop shield 5, and once we hit, shield 4 and mace 3 
 I favour the Boon Tome. Skills 5 and 4 are staples. If things are going well, then I may switch to Fire Tome for the skill 3 pull. I generally won't switch to Heal Tome unless things are really dire or our scrapper has somehow succumbed.
 
 While you should generally not jeopardize your own life to help stragglers, you're a guardian after all. It's hard to resist. When we're disengaging, there are things you can do to help. Turn around to face the tail and use shield 4, heal mantra, elite mantra, or Boon Tome 1 to help people catch up or avoid a pull.
+
+You can watch me play on [my Twitch channel](https://twitch.tv/perlkonig).
