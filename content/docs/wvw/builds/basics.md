@@ -5,7 +5,7 @@ weight: 10
 
 # The Basics
 
-The core party composition is a support firebrand (primarily for stability), a scrapper (for healing), and a scourge (for condi damage, shields, and boon rips). The remaining two slots is where we can get creative.
+The core party composition is a support firebrand (primarily for stability), a scrapper (for healing), and a scourge (for condi damage, shields, and boon rips). The remaining two slots are where we can get creative.
 
 At its most simplistic, builds are described in terms of role (DPS vs. support) and position (frontline vs. backline).
 
