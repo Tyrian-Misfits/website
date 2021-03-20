@@ -31,7 +31,9 @@ The core GW2Mists Healbrand build is perfectly serviceable, but there are minor 
 
 This is the build our commander tends to run. You'll note the extra offensive mantras and the use of the axe, which gives a helpful pull when running down fleeing squirrels.
 
-Firebrand commanders will still often have an additional firebrand in their party to ensure survivability.
+This build also chooses Valor over Virtues for extra self-sustain (additional self-only aegis, protection, toughness, *and* condition cleanse) and more frequent access to Boon Tome and shield skills. This build focuses more on weapon skills than virtues.
+
+While this is an acceptable variant, it shouldn't be the most common one in the squad.
 
 ### Boon Focused
 
@@ -72,7 +74,7 @@ Honor
 
 I run the boon-focused build. "Stand Your Ground!" and empower last over 10 seconds. Boon Tome 5 stability and protection lasts 9. Aegis from mace 3 lasts over 14 seconds, and shield 4 for over 7.
 
-When stacking, I use staff 4 then 2. If we have a distance to run, then I'll stay in staff and use staff 3 for swiftness or 5 for the line. I'll generally pop "Stand Your Ground!" one our way to the encounter.
+When stacking, I use staff 4 then 2. If we have a distance to run, then I'll stay in staff and use 3 for swiftness or 5 for the line. I'll generally pop "Stand Your Ground!" on our way to the encounter.
 
 As we get within range, I'll pop shield 5, and once we hit, shield 4 and mace 3 come out. From there, you have to see how the encounter is going.
 

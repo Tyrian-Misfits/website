@@ -17,7 +17,7 @@ Running with a squad is like a team sport. To be successful, everyone should und
 
     * There are roamers that follow squads just to pick off their tails. As the saying goes, "If you're not on tag, you're a bag." It is much safer to be with the main body of the squad.
 
-2) Don't "squirrel." This is the main reason people end up off tag, and often end up dead. Squirreling is when you leave the group to go after an enemy. If you want to roam, that's totally fine! But then you should leave the squad. If you are *in* the squad, you should be *with* the squad.
+2) Don't "squirrel." This is the main reason people end up off tag, and often end up dead. Squirreling is when you leave the group to go after an enemy. If you want to roam, that's totally fine! But then you should leave the squad. If you are *in* the squad, you should be *with* the squad (unless you're a designated scout).
 
     If you do chose to squirrel and find yourself in trouble, please do not call out for help. We can't be turning around a 30-man squad to chase one roamer. Chalk it up to experience and make your way back to the tag as quickly as you can.
 

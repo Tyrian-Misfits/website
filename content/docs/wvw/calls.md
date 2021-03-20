@@ -33,7 +33,7 @@ stack; stack up
 stealth
 :   Some classes have skills that create a [smoke field](https://wiki.guildwars2.com/wiki/Smoke_field). When smoke fields are [blasted](https://wiki.guildwars2.com/wiki/Blast_finisher), they give stealth to people within the field. For this to work, you must keep in mind the following:
 
-    * Hide your minatures in WvW. They don't stealth and give away our position.
+    * Hide your miniatures in WvW. They don't stealth and give away our position.
     * Get off your mount. You can't stealth while mounted.
     * When stealth is called, do not use *any* skill that creates a [combo field](https://wiki.guildwars2.com/wiki/Combo) other than smoke! **This is so important!** Do not use *any* skill once stealth has been called unless you know what you're doing.
     * Once the smoke fields are down, if you have a blast finisher, use it immediately, but then do not use any other skill, to avoid revealing yourself.
