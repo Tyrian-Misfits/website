@@ -42,11 +42,7 @@ Then, as needed, use Tool Belt F4: Defense Field (if FB stab gets cleansed or ju
 
 * Skill: Purge Gyro (Light Field)
 
-OR
-
-* Med Kit 3: Cleansing Field (Water Field) 
-
-PLUS FINISHER (Light + Finisher = Cleanse, Water + Finisher = Heal)
+PLUS FINISHER (Light + Finisher = Cleanse)
 
 * Med-Kit 5 Infusion Bomb (Blast Finisher) Slight delay: best when standing still
 * Hammer 2 Electro-whirl (Whirl Finisher) Instant: best on the go
@@ -64,13 +60,9 @@ PLUS FINISHER (Light + Finisher = Cleanse, Water + Finisher = Heal)
 
 **Combo Heals:**
 
-* Med Kit 3: Cleansing Field (Water Field)
-
-OR
-
 * Elixir Gun 5: Super Elixir (Light Field)
 
-PLUS FINISHER (Light + Finisher = Cleanse, Water + Finisher = Heal)
+PLUS FINISHER (Water + Finisher = Heal)
 
 * Med-Kit 5 Infusion Bomb (Blast Finisher) Slight delay: best when standing still
 * Hammer 2 Electro-whirl (Whirl Finisher) Instant: best on the go
