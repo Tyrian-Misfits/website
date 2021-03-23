@@ -1,9 +1,9 @@
 ---
-title: "Tempest"
-weight: 30
+title: "Elementalist"
+weight: 20
 ---
 
-# Tempest
+# Elementalist
 
 GW2Mists lists [two elementalist builds](https://gw2mists.com/builds/elementalist): a support and a DPS.
 
