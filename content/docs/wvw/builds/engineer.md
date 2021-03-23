@@ -11,13 +11,13 @@ weight: 30
 
 [Frontline Med-Kit Scrapper](http://gw2skills.net/editor/?PeQAIlNUw8yZPMH2JeyTmtKA-zVJYjRBfZEUBUdC47hIAbgHA-w)
 
-You serve four important functions: stealth, mitigate damage, cleanse, and heal.
+You serve five important functions: stealth, mitigate damage, cleanse, heal, and revive.
 
 ### Stealth
 
 When commander calls for stealth, use your elite skill Sneak Gyro, which drops a smoke field. Then use your Medkit 5 skill Infusion Bomb, which is a blast finisher.
 
-**Pro tip:** Double tap Medkit 5 first, then click Sneak Gyro, since Infusion Bomb has a small delay to blast. Then swap to Elixir Gun and hit trigger 4. If you change weapons (~) or swap to Medkit at the right time, the blast will still happen but you won't be thrown backwards. Practice makes perfect!
+**Pro tip:** Double tap Medkit 5 first, then click Sneak Gyro, since Infusion Bomb has a small delay to blast. Then swap to Elixir Gun and hit trigger 4. If you change weapons (~) at the right time, the blast will still happen but you won't be thrown backwards. Practice makes perfect!
 
 ### Mitigate Damage
 
@@ -28,6 +28,9 @@ When commander calls for stealth, use your elite skill Sneak Gyro, which drops a
 * Hammer 2: Electro-Whirl (Whirl Finisher = Vulnerability)
 
 Then, as needed, use Tool Belt F4: Defense Field (if FB stab gets cleansed or just in a pinch).
+
+** Pro tip:** If full stealth isn’t available or there isn’t time before combat, you can also drop Sneak Gyro followed by Hammer 2: Electro-Whirl (Whirl Finisher) upon engaging the enemy to apply blind (next attack misses).
+
 
 **Associated Specialization Choices:**
 
@@ -85,3 +88,7 @@ PLUS FINISHER (Water + Finisher = Heal)
 
 * Inventions: Soothing Detonation - Heal allies when using tool belt skills
 * Inventions: Medical Dispersion Field - Shared self heal
+
+### Revive
+
+Tool Belt F5: Function Gyro (Lightning Field) is used to revive allies or finish enemies. It's a targeted skill, so you can drop it without leaving tag, or you can use it in conjunction with manual reviving to speed the process. It can also be finished with varying results based on finisher (see [the Combo page on the wiki](https://wiki.guildwars2.com/wiki/Combo) for more information).
