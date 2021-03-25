@@ -29,8 +29,7 @@ When commander calls for stealth, use your elite skill Sneak Gyro, which drops a
 
 Then, as needed, use Tool Belt F4: Defense Field (if FB stab gets cleansed or just in a pinch).
 
-** Pro tip:** If full stealth isn’t available or there isn’t time before combat, you can also drop Sneak Gyro followed by Hammer 2: Electro-Whirl (Whirl Finisher) upon engaging the enemy to apply blind (next attack misses).
-
+**Pro tip:** If full stealth isn’t available or there isn’t time before combat, you can also drop Sneak Gyro followed by Hammer 2: Electro-Whirl (Whirl Finisher) upon engaging the enemy to apply blind (next attack misses).
 
 **Associated Specialization Choices:**
 
