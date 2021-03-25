@@ -17,4 +17,23 @@ dt {
      top: 0;
      width: 100%;
   }
-  
+
+#card table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#card tr {
+    max-height: 1in;
+}
+
+#card td, #card th {
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    overflow: auto;
+}
+
+#card th {
+    font-size: xx-large;
+}
