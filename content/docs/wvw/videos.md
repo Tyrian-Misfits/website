@@ -14,9 +14,9 @@ There are a few TMers who stream Guild Wars 2 content and guild events like the 
 
 ## Gallery
 
+<div class="iframe-container">
 <iframe
     src="https://player.twitch.tv?collection=-6d4tN91bxb8Eg&parent=tyrianmisfits.com&muted=true"
-    height="534"
-    width="800"
     allowfullscreen="<allowfullscreen>">
 </iframe>
+</div>

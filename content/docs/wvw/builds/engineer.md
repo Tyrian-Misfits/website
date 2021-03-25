@@ -91,3 +91,9 @@ PLUS FINISHER (Water + Finisher = Heal)
 ### Revive
 
 Tool Belt F5: Function Gyro (Lightning Field) is used to revive allies or finish enemies. It's a targeted skill, so you can drop it without leaving tag, or you can use it in conjunction with manual reviving to speed the process. It can also be finished with varying results based on finisher (see [the Combo page on the wiki](https://wiki.guildwars2.com/wiki/Combo) for more information).
+
+### Videos
+
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/q0Yfg0WBjms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
