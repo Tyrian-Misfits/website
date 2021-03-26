@@ -7,10 +7,12 @@ weight: 5
 
 Print this out and see if you can get bingo within the week. Refresh to generate a new card. There are currently **{numsquares}** possible squares.
 
-To suggest new content (or to object to existing content), contact Haele (Perlk√∂nig).
+The list of possible squares lives in [this Google Sheet](https://docs.google.com/spreadsheets/d/1XXE3Mn8EK_SGeF77HlJAzNM6_V4cv6-COHoOJh62WsQ/edit?usp=sharing). Certain officers can modify this list. To suggest new content (or to object to existing content), contact one of them.
 
 <div id="card">
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
 
 <script>
     const shuffle = function(array) {
@@ -32,34 +34,7 @@ To suggest new content (or to object to existing content), contact Haele (Perlk√
         }
     }
 
-    window.addEventListener("load", function() {
-        var entries = [
-            '"more tar"',
-            '"get your nods"',
-            'You end up blasting a non-smoke field',
-            'Someone trashes Canadians',
-            'Bacon is discussed',
-            'Deads links any of his legendary gear',
-            'More than one person falls to their death following the commander',
-            'A non-English conversation happens on voice chat',
-            'Deads goes on a sweary trash talk rant while killing a blob',
-            'We spend five minutes or more sniffing out a thief/mesmer',
-            'We win an objective after wiping at least once',
-            'We overhear a private conversation over voice chat',
-            'Someone (usually Maiden) blurts out an unintentional "double entendre"',
-            'Someone joins the guild during the run',
-            'Deads says "weeeeeeee"',
-            'Someone besides tag drops siege',
-            'Deads pretends to be talking behind someone\'s back',
-            'Hi, Late. I\'m Deads.',
-            'Tag throws wrong siege',
-            'Tag sieges own objective',
-            'Ba-by shark...',
-            'Monkey/Akili calling tags ididots (or some variant)',
-            'Deads asks for 5 gold',
-            'Tag mounts up or glides while stealthed',
-            'The squad becomes malnourished'
-        ];
+    var renderCard = function(entries) {
         entries = shuffle(entries);
         replaceText("{numsquares}", entries.length);
 
@@ -83,12 +58,24 @@ To suggest new content (or to object to existing content), contact Haele (Perlk√
                     img.src = "free.png";
                     c.append(img);
                 } else {
-                    c.innerHTML = entries[idx];
+                    c.innerHTML = entries[idx]['Bingo Squares'];
                 }
                 r.append(c)
             }
             table.append(r);
         }
         root.append(table);
-    });
+    }
+
+    function init() {
+        Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vR3ODoOMkDj2JquzOZYURjFiELmtjsmrYlkJuKrEmuAHkFxrtwCtq24dnBwVf6lPZ6w-rlqG7NH7zQt/pub?output=csv', {
+        download: true,
+        header: true,
+        complete: function(results) {
+            var data = results.data
+            renderCard(results.data);
+        }
+        })
+    }
+    window.addEventListener('DOMContentLoaded', init);
 </script>
