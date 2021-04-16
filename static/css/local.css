@@ -37,3 +37,9 @@ dt {
 #card th {
     font-size: xx-large;
 }
+
+div.lastmod {
+    text-align: right;
+    font-size: smaller;
+    font-style: italic;
+}
