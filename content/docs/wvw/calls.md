@@ -16,6 +16,9 @@ bomb
 
     It is generally wise to save your big skills for these calls. Sure, DPSers want to be doing damage all the time, but when everybody coordinates, it's amazing how quickly you can destroy an enemy blob. So try to save a little for these calls.
 
+bubble
+:   This refers to the Spellbreaker elite [Winds of Disenchantment](https://wiki.guildwars2.com/wiki/Winds_of_Disenchantment). It drops a stationary bubble that, for enemies, both strips existing boons and prevents new boons from being applied. For allies, it reflects projectiles and creates a lightning field. It is best dropped on choke points or on the front line if the commander plans on being stationary for a few seconds.
+
 finish the downs
 :   Means to backtrack a little and be sure to finish all the of the downed enemies. This usually means "cleave," meaning do as much damage as you can. "Stomping" (pressing the Finish key) generally takes too long.
 
