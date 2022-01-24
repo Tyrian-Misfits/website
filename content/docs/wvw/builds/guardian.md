@@ -83,3 +83,9 @@ I favour the Boon Tome. Skills 5 and 4 are staples. If things are going well, th
 While you should generally not jeopardize your own life to help stragglers, you're a guardian after all. It's hard to resist. When we're disengaging, there are things you can do to help. Turn around to face the tail and use shield 4, heal mantra, elite mantra, or Boon Tome 1 to help people catch up or avoid a pull.
 
 You can watch me play on [my Twitch channel](https://twitch.tv/perlkonig).
+
+### Videos
+
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/knp-rnH87KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
